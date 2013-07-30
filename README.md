@@ -21,6 +21,9 @@ spellit is a nonsensical spelling plugin.
 ## Demo
 http://www.zaferhangul.com/spellit
 
+##Kemal
+Bu alan deneme alanı
+
 ## Configuration Options
 | Option           |  Default                             |  Description                                               |
 |------------------|--------------------------------------|------------------------------------------------------------|
